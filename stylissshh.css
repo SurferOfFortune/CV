@@ -1,0 +1,47 @@
+html {
+  max-width: 70ch;
+  padding: 3em 1em;
+  margin: auto;
+  line-height: 1.75;
+  font-size: 1.25em;
+}
+
+h2 {
+  font-size: 20px;
+  font-style: italic;
+  line-height: 0px;
+
+  text-align: right;
+}
+
+.picture {
+  float: left; /* Выравниваем по левому краю */
+  width: auto; /* ширина картинки будет 350px*/
+  height: 250px; /* высота картинки будет 350px*/
+  border-radius: 20px; /* Радиус скругления */
+  box-shadow: 0 0 0 2px rgb(46, 55, 46), 0 0 13px #333;
+}
+
+h3 {
+  float: right;
+}
+
+#name {
+  font-size: 30px;
+  margin-bottom: 2em;
+}
+
+.head {
+  float: right;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+
+.skills {
+}
+
+
+
+.skills2{
+  
+}
